@@ -1,0 +1,69 @@
+Start Loading songs
+Total songs in playlist : 1000000 estimated time 29700 seconds (converted manually)
+------------------
+
+
+Start adding song 1
+Song 1 estimated time 7640
+Total songs in playlist : 1000001
+------------------
+
+
+Start adding song 2
+Song 2 estimated time 1190
+Total songs in playlist : 1000002
+------------------
+
+
+Start adding song 3
+Song 3 estimated time 890
+Total songs in playlist : 1000003
+------------------
+
+
+Start retrieve song 1
+song: Song10000, artist: Artist10000, playtime: 3.680000
+retrieve Song 1 estimated time 2698762
+------------------
+
+
+Start retrieve song 2
+song: Song100000, artist: Artist100000, playtime: 1.780000
+retrieve Song 2 estimated time 5512346
+------------------
+
+
+Start retrieve song 3
+song: Song1000000, artist: Artist1000000, playtime: 1.540000
+retrieve Song 3 estimated time 5134086
+------------------
+
+
+Start swap 1
+swap 1 estimated time 3325980
+------------------
+
+
+Start swap 2
+swap 2 estimated time 17707689
+------------------
+
+
+Start swap 3
+swap 3 estimated time 144273550
+------------------
+
+
+Start shift 1
+shift 1 estimated time 88025
+------------------
+
+
+Start shift 2
+shift 2 estimated time 23125075
+------------------
+
+
+Start shift 3
+shift 3 estimated time 9043152
+------------------
